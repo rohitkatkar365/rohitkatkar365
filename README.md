@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Katkar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkatkar365&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkatkar365" /> </p>
 
 - 🔭 I’m currently working on **LAMA AI Project**
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **katkarohitr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zr2ItPNmZZrwU3ll79v9Am6Ik6ehAuNy/view?usp=sharing](https://drive.google.com/file/d/1zr2ItPNmZZrwU3ll79v9Am6Ik6ehAuNy/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19aYxlkEeqcg-pEx_PIbRz2fC08JFksGz/view?usp=sharing](https://drive.google.com/file/d/19aYxlkEeqcg-pEx_PIbRz2fC08JFksGz/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
@@ -34,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkatkar365&show_icons=true&locale=en" alt="rohitkatkar365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkatkar365&" alt="rohitkatkar365" /></p>
-

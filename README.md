@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-katkar-11b65222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-katkar-11b65222b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-r-katkar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-r-katkar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rrkatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rrkatkar" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rohitkatkar__96/profilecard/?igsh=azy5ehc5dhc3dzns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohitkatkar__96/profilecard/?igsh=azy5ehc5dhc3dzns" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codewithrrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codewithrrk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucknnrpca5c79k1g5fkcnvta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucknnrpca5c79k1g5fkcnvta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/katkarohitr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/katkarohitr/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rrkatkay9tr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rrkatkay9tr/" height="30" width="40" /></a>
 </p>
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkatkar365&show_icons=true&locale=en" alt="rohitkatkar365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkatkar365&" alt="rohitkatkar365" /></p>
+

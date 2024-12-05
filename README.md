@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **LAMA AI Project**
 
-- 🌱 I’m currently learning **RectJS**
+- 🌱 I’m currently learning **RectJS , Data Science**
 
 - 💬 Ask me about **MERN STACK,DOCKER,PYTHON,JAVA**
 
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkatkar365&show_icons=true&locale=en" alt="rohitkatkar365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkatkar365&" alt="rohitkatkar365" /></p>
+

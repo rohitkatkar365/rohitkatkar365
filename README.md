@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkatkar365&show_icons=true&locale=en" alt="rohitkatkar365" /></p>
 
-<p><img align="center" src="[https://github.com/rohitkatkar365/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s)" alt="rohitkatkar365" /></p>
+<p><img align="center" src="https://github.blog/" alt="rohitkatkar365" /></p>

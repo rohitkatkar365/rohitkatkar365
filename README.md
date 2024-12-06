@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **katkarohitr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19aYxlkEeqcg-pEx_PIbRz2fC08JFksGz/view?usp=sharing](https://drive.google.com/file/d/19aYxlkEeqcg-pEx_PIbRz2fC08JFksGz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RKtj4wlv7Gz2sDXIgMnc_aRr6rPCUXMN/view?usp=sharing](https://drive.google.com/file/d/1RKtj4wlv7Gz2sDXIgMnc_aRr6rPCUXMN/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-r-katkar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-r-katkar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohitrkatkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohitrkatkar/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rrkatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rrkatkar" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rohitkatkar__96/profilecard/?igsh=azy5ehc5dhc3dzns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohitkatkar__96/profilecard/?igsh=azy5ehc5dhc3dzns" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucknnrpca5c79k1g5fkcnvta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucknnrpca5c79k1g5fkcnvta" height="30" width="40" /></a>
@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkatkar365&show_icons=true&locale=en" alt="rohitkatkar365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkatkar365&" alt="rohitkatkar365" /></p>
-
